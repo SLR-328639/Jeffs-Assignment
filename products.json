@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "Opal AMD Ryzen 5 RTX 4060 Ti",
+        "price": 1000,
+        "image": "image/image1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ignition Intel Core i5 GTX 1650 Gaming PC",
+        "price": 2000,
+        "image": "image/image2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "The Vantage Core i5 RTX 4070 SUPER Edge Gaming PC",
+        "price": 3000,
+        "image": "image/image3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Onyx AMD Ryzen 5 RX 7600 1TB SSD Mid Tower RGB Gaming PC",
+        "price": 4000,
+        "image": "image/image4.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Apex Ryzen 9 RTX 4090 Water Cooled Gaming PC",
+        "price": 5000,
+        "image": "image/image5.jpg"
+    },
+    
+    {
+        "id": 6,
+        "name": "Evolution AMD Ryzen 5 RTX 4060 Gaming PC",
+        "price": 6000,
+        "image": "image/image6.jpg"
+    },
+    
+    {
+        "id": 7,
+        "name": "The Verge Core i9 RTX 4090 Water Cooled Edge Gaming PC",
+        "price": 7000,
+        "image": "image/image7.jpg"
+    },
+    
+    {
+        "id": 8,
+        "name": "Icon F1 Water Cooled Gaming PC",
+        "price": 8000,
+        "image": "image/image8.jpg"
+    },
+
+    {
+        "id": 9,
+        "name": "The Karve Ryzen 5 RTX 4060 Ti Edge Gaming PC",
+        "price": 9000,
+        "image": "image/image9.jpg"
+    }
+]
