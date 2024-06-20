@@ -3,52 +3,52 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    }
-
+}
 header {
     background-color: #333;
     color: #fff;
     padding: 1rem 0;
-    }
-    
-    header h1 {
-        text-align: center;
-    }
-    
-    nav ul {
-        list-style-type: none;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-    }
-    
-    nav ul li {
-        margin: 0 15px;
-    }
-    
-    nav ul li a {
-        color: #fff;
-        text-decoration: none;
-        padding: 10px 3px;
-        display: block;
-        position: relative;
-    }
-    
-    nav ul li a::after {
-        content: '';
-        display: block;
-        height: 2px;
-        width: 0;
-        background: #fff;
-        transition: width 0.3s ease;
-        position: absolute;
-        bottom: 0;
-        left: 0;
-    }
-    
-    nav ul li a:hover::after {
-        width: 100%;
-    }
+}
+
+header h1 {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 3px;
+    display: block;
+    position: relative;
+}
+
+nav ul li a::after {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 0;
+    background: #fff;
+    transition: width 0.3s ease;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+nav ul li a:hover::after {
+    width: 100%;
+}
+
 
 #welcome {
     background-color: #52a589;
@@ -61,7 +61,7 @@ header {
     max-width: 90%;
     margin: auto;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 10 px;
     transition: transform .5s;
 }
 svg{
